@@ -1,0 +1,73 @@
+= Title
+:author:    Mathieu Kerjouan <contact@steepath.eu>
+:twitter:   https://twitter.com/niamtokik
+:backend:   slidy
+:max-width: 50em
+:icons:
+:iconsdir: /usr/local/etc/asciidoc/images/icons
+:images:
+:imagesdir: ./img/
+:copyright: Steepath <contact@steepath.eu>
+:copyright: Mathieu Kerjouan <contact@steepath.eu>
+
+== Operating Systems
+
+ * http://bxr.su/
+ * https://grok.dragonflybsd.org/
+
+=== FreeBSD
+
+ * http://www.freebsd.org/cgi/man.cgi
+ * https://www.freshports.org/
+
+=== OpenBSD
+
+ * http://man.openbsd.org/
+ * http://openports.se/
+
+=== NetBSD
+
+ * http://netbsd.gw.com/cgi-bin/man-cgi
+ * http://pkgsrc.se/
+
+=== DragonFlyBSD
+
+ * https://leaf.dragonflybsd.org/cgi/web-man
+
+=== Solaris
+
+=== Linux
+
+ * https://www.die.net/
+
+==== Debian
+
+ * https://codesearch.debian.net/
+ * https://db.debian.org/machines.cgi
+
+==== Ubuntu
+
+==== CentOS
+
+==== RHEL
+
+==== Gentoo
+
+==== Void
+
+== Language
+
+ * https://searchcode.com/
+
+=== C
+
+=== Erlang
+
+=== Elixir
+
+=== Go
+
+=== Haskell
+
+== Security
+
